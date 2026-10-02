@@ -5,28 +5,12 @@
   Backend · APIs · Integraciones
 </p>
 
-<pre align="center">
-       ▄                                     ▄████▄         
-      ▄█▄                                   ███▀            
-      ███                      .            ███▄            
-     ▄███▄                                   ▀████▀         
-     ██ ██         ▄                                   .    
-     ██ ██        ▄█▄     .                                 
-    ▄█████▄      ▄███▄                                      
-    ██▀ ▀██  ▄▄  ██ ██             ▄██▄              ▄      
-   ▄█   ██▄ ██▄  ██ ██            ▐█▄▄█▌             █      
-  ▄██   ███▄ ██▄▄▄████             ▀██▀            ▀███▀    
- ▄███   █████▄▄██▀▀██▀▀██▄        ▄▓██▄              █      
-█████   ███▒███    ██   ██▄      ██▓███▄▄         ░  █   ░  
-██▓██   ██▓███     █    ██▒▄     ██▒█▀▀▀█▄       ░▒  █  ▒░  
-██▒██   ██████     █    ███▒▄    ██▒██████       ▒▓░ █ ░▓▒  
-██▓██▄▄▄██▓███▄▄▄▄▄█▄▄▄▄███▒      ▀▒▓██ ██      ░▓██▒█▒▓█▓░ 
-████▓██████▓████▓██████▓████▄▄     ▀▀██▄▄██▄     ▀▓████▓▀   
- ▀████▓██▓████▓██▓████▓████████▄▄▄████████▄▄    ▄▄█▄█▄█▄▄   
-   ▀▀▓▓████▓▓██▓▓▓███▓▓████▓▓▓████▓▓███▓▓████████████▄▄▄▄   
-       ▀▀▀▒▒▓▓██▓▓▒▒▒▓▓▓▒▒▓▓██▓▓▒▒▓▓▓▓▒▒▓▓██▓▓▓▓▒▒▀▀        
-              ░░▒▒░░░░▒░░░░░▒▒░░░░░░▒░░░░░▒▒░░░░            
-</pre>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/night-watch-static.svg">
+    <img src="./assets/night-watch.svg" width="100%" alt="Mi escena ASCII animada: un castillo bajo la luna, un caballero y una espada en una hoguera, con brasas y niebla.">
+  </picture>
+</p>
 
 <p align="center">
   <a href="#proyectos-seleccionados">Proyectos</a> ·
