@@ -3,56 +3,45 @@
 </p>
 
 <p align="center">
-  <a href="#tu-recorrido-en-3-minutos">Empieza el recorrido</a> ·
-  <a href="#lo-que-aporto">Experiencia</a> ·
-  <a href="#mi-caja-de-herramientas">Stack</a> ·
-  <a href="#hablemos">Contacto</a> ·
+  <a href="#proyectos-seleccionados">Proyectos</a> ·
+  <a href="#experiencia-profesional">Experiencia</a> ·
+  <a href="#tecnologías">Tecnologías</a> ·
+  <a href="#contacto-profesional">Contacto</a> ·
   <a href="#english">English</a>
 </p>
 
-# Hola, soy Luis 👋
+# Perfil profesional
 
-**Desarrollador de software en Guatemala, enfocado en backend, APIs e integraciones.** Me gusta conectar las piezas: una interfaz, una API, una base de datos y el proceso de negocio que les da sentido.
+**Desarrollador de software especializado en backend, APIs e integraciones empresariales.** Experiencia con Python, JavaScript/TypeScript, PostgreSQL y Odoo, en proyectos de automatización, personalización de procesos de negocio y conexión de servicios externos.
 
-Mi experiencia combina **integraciones empresariales con Odoo**, desarrollo full-stack y proyectos de sistemas. Estudio **Ingeniería en Ciencia de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala**.
+Estudiante de **Ingeniería en Ciencia de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala**. Este perfil reúne experiencia profesional y proyectos de desarrollo full-stack, protocolos de integración, compiladores y gráficos.
 
-```text
-$ whoami
-Luis Gilberto González / G1LB3T0
+## Proyectos seleccionados
 
-$ focus
-Backend · APIs · Integraciones · Automatización
-
-$ approach
-Entender el problema → construir → verificar → documentar
-```
-
-## Tu recorrido en 3 minutos
-
-**¿Vienes a conocer mi trabajo?** Empieza por las integraciones, sigue hacia el producto y termina explorando cómo funcionan las cosas por dentro.
-
-| Parada | Proyecto | Qué puedes explorar |
+| Área | Proyecto | Enfoque técnico |
 | :--- | :--- | :--- |
-| **01 / Conectar sistemas** | [Chatbot + servidores MCP](https://github.com/G1LB3T0/Proyecto1_Redes_MCP) | Python, JSON-RPC, transportes stdio/HTTPS y un inventario de demostración. Documentación de autenticación, sesiones, despliegue y pruebas. |
-| **02 / Construir un producto** | **Freelance Hub** · [Backend](https://github.com/G1LB3T0/Proyecto_Freelance_BackEnd) · [Frontend](https://github.com/G1LB3T0/Proyecto_Freelance_FrontEnd) | React + Vite, API REST con Express, autenticación JWT, PostgreSQL con Prisma y entorno con Docker. |
-| **03 / Ver la interfaz en acción** | [Hogar & Decoración](https://github.com/G1LB3T0/Proyecto_Ecommerce) · [Abrir demo ↗](https://proyecto-ecommerce-git-master-g1lb3t0s-projects.vercel.app/) | Frontend de ecommerce con React: catálogo, categorías, fichas de producto y componentes reutilizables. |
-| **04 / Mirar bajo el capó** | [Generadores YALex / YAPar](https://github.com/G1LB3T0/Proyecto1_Compis_Generador_Analizador_Lexico) | Proyecto académico grupal: autómatas, generación de lexers, parsers LL(1), SLR(1) y LALR, con una interfaz Flask. |
-| **05 / Salir de la ruta** | [RayCube](https://github.com/G1LB3T0/RayCube) | Exploración de gráficos en Rust y Raylib: un cubo 3D, texturas, iluminación y controles de cámara. |
+| **Integraciones y protocolos** | [Chatbot y servidores MCP](https://github.com/G1LB3T0/Proyecto1_Redes_MCP) | Python, JSON-RPC y transportes stdio/HTTPS. Inventario de demostración con documentación de autenticación, sesiones, despliegue y pruebas. |
+| **Desarrollo full-stack** | **Freelance Hub** · [Backend](https://github.com/G1LB3T0/Proyecto_Freelance_BackEnd) · [Frontend](https://github.com/G1LB3T0/Proyecto_Freelance_FrontEnd) | React y Vite, API REST con Express, autenticación JWT, persistencia en PostgreSQL mediante Prisma y entorno con Docker. |
+| **Desarrollo frontend** | [Hogar & Decoración](https://github.com/G1LB3T0/Proyecto_Ecommerce) · [Demo](https://proyecto-ecommerce-git-master-g1lb3t0s-projects.vercel.app/) | Interfaz de ecommerce con React: catálogo, categorías, fichas de producto y componentes reutilizables. |
+| **Compiladores** | [Generadores YALex / YAPar](https://github.com/G1LB3T0/Proyecto1_Compis_Generador_Analizador_Lexico) | Proyecto académico grupal en C++ y Flask: autómatas, generación de analizadores léxicos y parsers LL(1), SLR(1) y LALR. |
+| **Gráficos por computadora** | [RayCube](https://github.com/G1LB3T0/RayCube) | Renderizado 3D con Rust y Raylib: texturas, iluminación y controles de cámara. |
 
-**Si solo tienes un minuto:** abre el [README de MCP](https://github.com/G1LB3T0/Proyecto1_Redes_MCP#readme), revisa su [guía de despliegue](https://github.com/G1LB3T0/Proyecto1_Redes_MCP/blob/main/docs/deployment.md) y prueba la [demo del ecommerce](https://proyecto-ecommerce-git-master-g1lb3t0s-projects.vercel.app/).
+**Documentación técnica:** [MCP](https://github.com/G1LB3T0/Proyecto1_Redes_MCP#readme) · [Despliegue del servidor MCP](https://github.com/G1LB3T0/Proyecto1_Redes_MCP/blob/main/docs/deployment.md) · [API de Freelance Hub](https://github.com/G1LB3T0/Proyecto_Freelance_BackEnd#readme).
 
-## Lo que aporto
+Los proyectos académicos grupales incluyen créditos e historial de commits para consultar las contribuciones individuales.
+
+## Experiencia profesional
 
 **Desarrollador de Software Junior · Octopus Innovations GT**  
 Octubre de 2025 – agosto de 2026
 
-- Desarrollé y mantuve integraciones en Python entre **Odoo, certificadores FEL y Meta API**, trabajando con autenticación, solicitudes, respuestas y manejo de errores.
-- Personalicé lógica de negocio y flujos de CRM, compras e inventario con **Python, JavaScript/TypeScript y XML/QWeb**.
-- Diagnostiqué problemas de integración y preparé datos para migraciones e importaciones masivas.
-- Apoyé despliegues y soporte en entornos cloud, utilizando **Git y Docker** dentro del flujo de desarrollo.
-- Implementé **MCP y Skills para Codex y Claude Code** en flujos de automatización, soporte y documentación.
+- Desarrollo y mantenimiento de integraciones en Python entre **Odoo, certificadores FEL y Meta API**, con gestión de autenticación, solicitudes, respuestas y errores.
+- Personalización de lógica de negocio y flujos de CRM, compras e inventario con **Python, JavaScript/TypeScript y XML/QWeb**.
+- Diagnóstico de errores de integración y preparación de datos para migraciones e importaciones masivas.
+- Apoyo a despliegues y soporte en entornos cloud, utilizando **Git y Docker** en el flujo de desarrollo.
+- Implementación de **MCP y Skills para Codex y Claude Code** en procesos de automatización, soporte y documentación.
 
-## Mi caja de herramientas
+## Tecnologías
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -61,43 +50,42 @@ Octubre de 2025 – agosto de 2026
 | **Frontend** | React · Vite · HTML/CSS · Bootstrap |
 | **Integraciones** | Odoo · CRM · FEL · Meta API · XML/QWeb · MCP |
 | **Entornos y herramientas** | Docker · Git · GitHub · DigitalOcean · Hetzner · Azure · AWS · Cloudpepper |
-| **Fundamentos y exploración** | Java · C++ y Rust en proyectos académicos y personales |
+| **Lenguajes en proyectos académicos y personales** | Java · C++ · Rust |
 
-## También hay espacio para jugar
+## Proyecto adicional
 
-La curiosidad no termina en las APIs. En [Canchon Mod](https://github.com/G1LB3T0/Canchon_Mod) llevo reglas de juego a un servidor de Minecraft con Java y Fabric: eventos, estado persistente y configuración. Y en RayCube exploro el lado visual del código.
+[Canchon Mod](https://github.com/G1LB3T0/Canchon_Mod): módulo de servidor desarrollado con Java y Fabric, con gestión de eventos, estado persistente y configuración de reglas.
 
-Los proyectos académicos y personales son parte de mi aprendizaje. En los trabajos grupales, el historial de commits y los créditos del repositorio permiten consultar las contribuciones de cada integrante.
+## Contacto profesional
 
-## Hablemos
+**Áreas de interés:** backend, APIs, integraciones empresariales y desarrollo full-stack.
 
-Me interesa aportar en proyectos de **backend, APIs, integraciones y desarrollo full-stack**.
-
-📍 Guatemala · 🌐 Español / English B2  
-✉️ [luis.yo09@hotmail.com](mailto:luis.yo09@hotmail.com)
+**Ubicación:** Guatemala  
+**Idiomas:** español e inglés B2  
+**Correo:** [luis.yo09@hotmail.com](mailto:luis.yo09@hotmail.com)
 
 <a id="english"></a>
 <details>
-<summary><strong>For international recruiters · English overview</strong></summary>
+<summary><strong>Professional overview · English</strong></summary>
 
-### Hi, I'm Luis Gilberto González
+### Professional profile
 
-I'm a software developer based in Guatemala, focused on **backend development, APIs and business integrations**. I'm studying Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala.
+Software developer based in Guatemala, focused on **backend development, APIs and business integrations**, with experience in Python, JavaScript/TypeScript, PostgreSQL and Odoo. Currently studying Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala.
 
-As a **Junior Software Developer at Octopus Innovations GT (October 2025 – August 2026)**, I worked on Python integrations between Odoo and external services, including electronic invoicing providers and the Meta API. My experience also includes business workflow customization, data preparation for migrations, cloud deployment support, and MCP tooling for development workflows.
+**Junior Software Developer · Octopus Innovations GT**  
+October 2025 – August 2026
 
-**Start here:**
+Professional experience includes Python integrations between Odoo and external services, including electronic invoicing providers and the Meta API; business workflow customization; data preparation for migrations; cloud deployment support; and MCP tooling for development workflows.
 
-- [MCP chatbot](https://github.com/G1LB3T0/Proyecto1_Redes_MCP): Python, JSON-RPC, local and remote transports, deployment documentation and automated checks.
-- [Freelance Hub API](https://github.com/G1LB3T0/Proyecto_Freelance_BackEnd) + [React frontend](https://github.com/G1LB3T0/Proyecto_Freelance_FrontEnd): a full-stack project using Express, PostgreSQL, Prisma and Docker.
-- [Ecommerce demo](https://proyecto-ecommerce-git-master-g1lb3t0s-projects.vercel.app/): a React interface you can explore immediately.
+**Selected projects**
+
+- [MCP chatbot and servers](https://github.com/G1LB3T0/Proyecto1_Redes_MCP): Python, JSON-RPC, local and remote transports, deployment documentation and automated checks.
+- [Freelance Hub API](https://github.com/G1LB3T0/Proyecto_Freelance_BackEnd) and [React frontend](https://github.com/G1LB3T0/Proyecto_Freelance_FrontEnd): a full-stack project using Express, PostgreSQL, Prisma and Docker.
+- [Ecommerce frontend](https://github.com/G1LB3T0/Proyecto_Ecommerce) and [demo](https://proyecto-ecommerce-git-master-g1lb3t0s-projects.vercel.app/): a React interface with product catalog navigation.
 - [YALex / YAPar](https://github.com/G1LB3T0/Proyecto1_Compis_Generador_Analizador_Lexico): a collaborative academic project covering lexer and parser generation.
+- [RayCube](https://github.com/G1LB3T0/RayCube): 3D rendering with Rust and Raylib.
 
 **Languages:** Spanish and English B2.  
 **Contact:** [luis.yo09@hotmail.com](mailto:luis.yo09@hotmail.com).
 
 </details>
-
----
-
-<p align="center"><sub>Gracias por pasar por aquí. Cada repositorio es una pieza del recorrido.</sub></p>
