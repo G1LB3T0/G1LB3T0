@@ -1,14 +1,11 @@
 <h1 align="center">Luis Gilberto González</h1>
 
-<p align="center">
-  <strong>Software Engineer</strong><br>
-  Backend · APIs · Integraciones
-</p>
+<p align="center"><strong>Software Engineer</strong></p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/night-watch-static.svg">
-    <img src="./assets/night-watch.svg" width="100%" alt="Mi escena ASCII animada: un castillo bajo la luna, un caballero y una espada en una hoguera, con brasas y niebla.">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/typography-dark.svg">
+    <img src="./assets/typography-light.svg" width="400" height="40" alt="Backend · APIs · Integraciones">
   </picture>
 </p>
 

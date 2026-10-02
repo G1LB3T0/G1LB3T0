@@ -1,22 +1,16 @@
-# The Night Watch
+# Tipografía del perfil
 
-La animación del perfil usa el ASCII original de `assets/night-watch.txt`.
-El castillo, el caballero, la espada y la luna se convierten en geometría SVG.
-La animación añade brasas, fuego, reflejos de luz, estrellas y niebla.
+El nombre y el cargo son texto normal del README. La línea de especialidades
+usa dos SVG pequeños y autónomos, uno para tema claro y otro para tema oscuro.
+Los términos se escriben, permanecen visibles y se borran, con un ciclo de
+doce segundos. La preferencia de movimiento reducido muestra los tres términos
+en una línea estática. El estado sin soporte de animación también es legible.
 
-## Regenerar
-
-Desde la raíz del repositorio, con Python 3:
+Para regenerar ambos archivos con Python 3, sin instalar dependencias:
 
 ```sh
-python scripts/generate-night-watch.py
+python scripts/generate-typography.py
 ```
 
-Se generan `assets/night-watch.svg` y `assets/night-watch-static.svg`.
-El generador usa únicamente la biblioteca estándar de Python. La imagen es
-autónoma: no descarga fuentes, no ejecuta JavaScript y no requiere servicios
-externos ni tareas programadas. Las semillas de las partículas son fijas.
-
-El README ofrece la versión estática cuando el visitante prefiere movimiento
-reducido; el SVG animado también respeta esa preferencia mediante CSS.
-La geometría del arte permanece visible incluso sin animación.
+No requiere fuentes descargadas, JavaScript, servicios externos ni tareas
+programadas. Los términos se cambian en `WORDS` dentro del generador.
