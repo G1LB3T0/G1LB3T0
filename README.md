@@ -1,6 +1,25 @@
+<h1 align="center">Luis Gilberto González</h1>
+
 <p align="center">
-  <img src="https://github.com/G1LB3T0/G1LB3T0/raw/00bd683555c22dd8d69f50e93c460dd207b14d30/assets/banner.svg" alt="Luis Gilberto González — Software Engineer. Backend, APIs e integraciones." width="100%" />
+  <strong>Software Engineer</strong><br>
+  Backend · APIs · Integraciones
 </p>
+
+<pre align="center">
+                   (_)                   
+                   |=|                   
+              o====|+|====o              
+                   | |                   
+           .       | |       .           
+            )   (  | |  )   (            
+           (     \ | | /     )           
+            \  )  \| |/  (  /            
+          .  \/    | |    \/  .          
+           \       \ /       /           
+       _____\__..___V___..__/_____       
+        .:.:.::::::/ \::::::.:.:.        
+             `:::._____.:::'             
+</pre>
 
 <p align="center">
   <a href="#proyectos-seleccionados">Proyectos</a> ·
@@ -10,7 +29,7 @@
   <a href="#english">English</a>
 </p>
 
-# Perfil profesional
+## Perfil profesional
 
 **Desarrollador de software especializado en backend, APIs e integraciones empresariales.** Experiencia con Python, JavaScript/TypeScript, PostgreSQL y Odoo, en proyectos de automatización, personalización de procesos de negocio y conexión de servicios externos.
 
