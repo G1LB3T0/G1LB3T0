@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Luis Gilberto González — Software Engineer. Backend, APIs e integraciones." width="100%" />
+  <img src="assets/banner.svg?v=e2f9352" alt="Luis Gilberto González — Software Engineer. Backend, APIs e integraciones." width="100%" />
 </p>
 
 <p align="center">
