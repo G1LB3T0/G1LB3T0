@@ -4,8 +4,10 @@
 
 <p align="center">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/typography-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="./assets/typography-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/typography-dark.svg">
-    <img src="./assets/typography-light.svg" width="400" height="40" alt="Backend · APIs · Integraciones">
+    <img src="./assets/typography-light.svg" width="100%" alt="Backend · APIs · Integraciones">
   </picture>
 </p>
 

@@ -1,0 +1,480 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="274" viewBox="0 0 600 274" role="img" aria-labelledby="title desc">
+<title id="title">G1LB3T0: Backend, APIs e Integraciones</title>
+<desc id="desc">Los caracteres se descifran hasta mostrar cada especialidad y sus tecnologías. El ciclo dura 18 segundos. Con movimiento reducido se muestran las tres especialidades sin animación.</desc>
+<defs>
+<path id="g97" d="M249 -10Q164 -10 114.5 37.5Q65 85 65 162Q65 239 116.5 286.0Q168 333 252 333H413V375Q413 476 301 476Q251 476 220.5 457.5Q190 439 188 406H90Q95 473 151.0 516.5Q207 560 301 560Q402 560 457.0 512.0Q512 464 512 377V0H415V101H413Q406 50 362.5 20.0Q319 -10 249 -10ZM275 73Q338 73 375.5 103.5Q413 134 413 187V260H261Q218 260 191.5 234.5Q165 209 165 167Q165 124 194.0 98.5Q223 73 275 73Z"/>
+<path id="g98" d="M337 -10Q275 -10 235.0 21.0Q195 52 186 107V0H88V730H187V572L185 444Q194 498 234.5 529.0Q275 560 337 560Q419 560 468.0 504.5Q517 449 517 354V196Q517 101 468.0 45.5Q419 -10 337 -10ZM302 76Q357 76 387.5 104.5Q418 133 418 197V353Q418 417 387.5 445.5Q357 474 302 474Q249 474 218.0 441.0Q187 408 187 348V202Q187 142 218.0 109.0Q249 76 302 76Z"/>
+<path id="g99" d="M308 -10Q207 -10 146.0 46.5Q85 103 85 202V349Q85 447 146.0 503.5Q207 560 308 560Q405 560 464.5 508.5Q524 457 527 368H429Q426 418 393.5 445.5Q361 473 308 473Q251 473 217.5 440.5Q184 408 184 349V202Q184 142 217.5 110.0Q251 78 308 78Q362 78 394.0 105.0Q426 132 429 182H527Q524 93 464.5 41.5Q405 -10 308 -10Z"/>
+<path id="g100" d="M264 -10Q181 -10 132.0 45.5Q83 101 83 196V354Q83 449 132.0 504.5Q181 560 264 560Q325 560 365.5 529.0Q406 498 415 444L413 572V730H512V0H414V107Q405 52 365.0 21.0Q325 -10 264 -10ZM298 76Q351 76 382.0 109.0Q413 142 413 202V348Q413 408 382.0 441.0Q351 474 298 474Q243 474 212.5 445.5Q182 417 182 353V197Q182 133 212.5 104.5Q243 76 298 76Z"/>
+<path id="g101" d="M300 -10Q201 -10 140.5 49.0Q80 108 80 210V340Q80 442 140.5 501.0Q201 560 300 560Q366 560 415.5 533.5Q465 507 492.5 459.5Q520 412 520 349V250H177V202Q177 142 210.0 108.0Q243 74 300 74Q348 74 379.0 92.0Q410 110 416 142H515Q505 72 446.0 31.0Q387 -10 300 -10ZM177 349V323H423V349Q423 412 391.0 446.0Q359 480 300 480Q241 480 209.0 446.0Q177 412 177 349Z"/>
+<path id="g102" d="M211 0V385H53V475H211V586Q211 652 254.0 691.0Q297 730 371 730H532V641H371Q310 641 310 585V475H532V385H310V0Z"/>
+<path id="g103" d="M159 -180V-92H314Q359 -92 386.0 -66.5Q413 -41 413 3V49L415 144H414Q404 93 365.5 65.0Q327 37 267 37Q182 37 133.0 91.5Q84 146 84 241V354Q84 449 133.0 504.5Q182 560 267 560Q325 560 363.5 532.0Q402 504 413 455H414V550H511V2Q511 -82 458.0 -131.0Q405 -180 314 -180ZM298 120Q351 120 382.0 153.0Q413 186 413 246V349Q413 408 382.0 441.0Q351 474 298 474Q243 474 213.0 442.5Q183 411 183 357V237Q183 183 213.0 151.5Q243 120 298 120Z"/>
+<path id="g104" d="M88 0V730H187V550L186 445H187Q194 499 232.5 529.5Q271 560 334 560Q416 560 465.0 508.0Q514 456 514 368V0H415V353Q415 412 385.0 444.0Q355 476 303 476Q249 476 218.0 442.5Q187 409 187 349V0Z"/>
+<path id="g105" d="M83 0V90H276V460H103V550H375V90H556V0ZM316 647Q282 647 262.0 664.5Q242 682 242 712Q242 743 262.0 761.0Q282 779 316 779Q350 779 370.0 761.0Q390 743 390 712Q390 682 370.0 664.5Q350 647 316 647Z"/>
+<path id="g106" d="M88 -180V-90H217Q276 -90 308.5 -57.5Q341 -25 341 33V460H83V550H440V32Q440 -65 380.0 -122.5Q320 -180 219 -180ZM382 647Q348 647 328.0 664.5Q308 682 308 712Q308 743 328.0 761.0Q348 779 382 779Q416 779 436.0 761.0Q456 743 456 712Q456 682 436.0 664.5Q416 647 382 647Z"/>
+<path id="g107" d="M93 0V730H192V326H293L441 550H553L380 287L562 0H448L294 241H192V0Z"/>
+<path id="g108" d="M382 0Q307 0 262.0 44.0Q217 88 217 161V640H29V730H316V162Q316 129 334.5 109.5Q353 90 385 90H552V0Z"/>
+<path id="g109" d="M57 0V550H141V475H144Q148 513 172.5 536.5Q197 560 235 560Q272 560 297.0 538.0Q322 516 333 479Q339 517 364.0 538.5Q389 560 427 560Q479 560 511.0 520.5Q543 481 543 418V0H453V417Q453 448 437.5 466.5Q422 485 396 485Q370 485 355.0 467.0Q340 449 340 417V0H260V417Q260 448 245.0 466.5Q230 485 204 485Q178 485 162.5 467.0Q147 449 147 417V0Z"/>
+<path id="g110" d="M88 0V550H186V445H187Q194 499 232.5 529.5Q271 560 334 560Q416 560 465.0 508.0Q514 456 514 368V0H415V352Q415 412 385.0 444.0Q355 476 303 476Q249 476 218.0 442.5Q187 409 187 349V0Z"/>
+<path id="g111" d="M300 -8Q199 -8 139.5 50.0Q80 108 80 212V338Q80 442 139.5 500.0Q199 558 300 558Q401 558 460.5 500.0Q520 442 520 338V212Q520 108 460.5 50.0Q401 -8 300 -8ZM300 79Q356 79 388.5 110.5Q421 142 421 203V347Q421 408 388.5 439.5Q356 471 300 471Q244 471 211.5 439.5Q179 408 179 347V203Q179 142 211.5 110.5Q244 79 300 79Z"/>
+<path id="g112" d="M88 -180V550H186V444H187Q195 498 235.0 529.0Q275 560 337 560Q419 560 468.0 504.5Q517 449 517 354V197Q517 101 468.0 45.5Q419 -10 337 -10Q276 -10 236.0 21.0Q196 52 187 106H185L187 -21V-180ZM302 76Q357 76 387.5 104.5Q418 133 418 197V353Q418 417 387.5 445.5Q357 474 302 474Q249 474 218.0 441.0Q187 408 187 348V202Q187 142 218.0 109.0Q249 76 302 76Z"/>
+<path id="g113" d="M413 -180V-21L415 104H413Q403 51 363.5 20.5Q324 -10 264 -10Q181 -10 132.0 45.5Q83 101 83 197V354Q83 449 132.0 504.5Q181 560 264 560Q325 560 365.0 529.0Q405 498 414 444V550H512V-180ZM298 76Q351 76 382.0 109.0Q413 142 413 202V348Q413 408 382.0 441.0Q351 474 298 474Q243 474 212.5 446.0Q182 418 182 357V193Q182 132 212.5 104.0Q243 76 298 76Z"/>
+<path id="g114" d="M108 0V550H206V444H207Q215 498 253.5 529.0Q292 560 356 560Q441 560 488.0 507.5Q535 455 535 360V312H436V359Q436 474 323 474Q266 474 236.5 441.0Q207 408 207 347V0Z"/>
+<path id="g115" d="M278 -8Q184 -8 132.0 34.0Q80 76 80 152H178Q178 116 204.5 95.5Q231 75 278 75H322Q371 75 397.5 96.0Q424 117 424 155Q424 222 358 230L210 251Q151 260 119.0 299.5Q87 339 87 402Q87 476 137.0 517.0Q187 558 277 558H321Q405 558 457.0 518.0Q509 478 512 412H412Q410 440 386.0 458.5Q362 477 321 477H277Q232 477 207.5 457.0Q183 437 183 403Q183 348 238 341L377 321Q520 302 520 155Q520 77 468.5 34.5Q417 -8 322 -8Z"/>
+<path id="g116" d="M355 0Q284 0 242.5 41.0Q201 82 201 150V460H44V550H201V705H300V550H523V460H300V151Q300 124 315.5 107.0Q331 90 357 90H518V0Z"/>
+<path id="g117" d="M299 -10Q202 -10 144.0 47.0Q86 104 86 202V550H185V202Q185 144 215.5 110.5Q246 77 299 77Q353 77 384.0 110.5Q415 144 415 202V550H514V202Q514 104 455.5 47.0Q397 -10 299 -10Z"/>
+<path id="g118" d="M236 0 50 550H155L272 189Q282 157 290.0 126.5Q298 96 302 78Q306 96 313.0 126.5Q320 157 330 189L446 550H551L364 0Z"/>
+<path id="g119" d="M116 0 27 550H111L165 175Q168 150 171.0 121.0Q174 92 175 74Q177 92 180.0 121.0Q183 150 187 175L253 550H347L413 175Q417 150 420.5 121.5Q424 93 426 74Q428 93 431.0 121.5Q434 150 437 175L493 550H573L480 0H374L313 370Q309 397 305.5 430.0Q302 463 300 482Q299 463 294.5 430.0Q290 397 286 370L223 0Z"/>
+<path id="g120" d="M46 0 241 283 59 550H174L277 389Q284 377 290.5 364.0Q297 351 301 343Q304 351 310.5 364.0Q317 377 324 389L427 550H542L360 282L554 0H438L326 173Q319 184 312.0 198.5Q305 213 301 222Q296 213 289.0 198.5Q282 184 274 173L162 0Z"/>
+<path id="g121" d="M175 -180 255 33 50 550H155L279 225Q287 204 295.0 180.0Q303 156 306 138Q309 156 316.0 180.0Q323 204 331 225L446 550H551L278 -180Z"/>
+<path id="g122" d="M87 0V96L390 461H95V550H502V454L194 89H513V0Z"/>
+<path id="g65" d="M46 0 235 730H366L554 0H453L407 190H193L147 0ZM212 272H387L334 490Q320 550 311.0 592.0Q302 634 300 649Q298 634 289.0 592.0Q280 550 266 491Z"/>
+<path id="g66" d="M89 0V730H300Q401 730 459.5 679.5Q518 629 518 541Q518 484 482.5 439.5Q447 395 391 385V382Q433 377 465.5 352.0Q498 327 516.5 288.5Q535 250 535 204Q535 110 475.5 55.0Q416 0 314 0ZM186 422H299Q355 422 387.0 451.5Q419 481 419 532Q419 584 387.0 613.5Q355 643 300 643H186ZM186 87H305Q366 87 401.0 119.5Q436 152 436 208Q436 266 401.0 302.0Q366 338 305 338H186Z"/>
+<path id="g67" d="M308 -10Q207 -10 147.5 46.5Q88 103 88 202V529Q88 627 147.5 683.5Q207 740 308 740Q408 740 467.5 683.0Q527 626 527 529H428Q428 588 396.0 620.0Q364 652 308 652Q251 652 219.0 620.0Q187 588 187 529V202Q187 142 219.0 110.0Q251 78 308 78Q364 78 396.0 110.0Q428 142 428 202H527Q527 104 467.5 47.0Q408 -10 308 -10Z"/>
+<path id="g68" d="M88 0V730H284Q355 730 407.5 702.5Q460 675 489.0 625.5Q518 576 518 509V222Q518 155 489.0 105.0Q460 55 407.5 27.5Q355 0 284 0ZM187 88H284Q347 88 383.0 124.0Q419 160 419 222V509Q419 571 383.0 606.5Q347 642 284 642H187Z"/>
+<path id="g69" d="M97 0V730H522V641H195V424H487V338H195V89H522V0Z"/>
+<path id="g70" d="M91 0V730H527V639H188V409H501V319H190V0Z"/>
+<path id="g71" d="M304 -10Q203 -10 143.5 46.5Q84 103 84 202V529Q84 627 143.5 683.5Q203 740 304 740Q404 740 463.5 683.0Q523 626 523 529H424Q424 588 392.0 620.0Q360 652 304 652Q247 652 215.0 620.0Q183 588 183 529V202Q183 142 215.0 110.0Q247 78 304 78Q360 78 392.0 110.0Q424 142 424 202V297H282V385H523V202Q523 104 463.5 47.0Q404 -10 304 -10Z"/>
+<path id="g72" d="M89 0V730H188V422H412V730H511V0H412V332H188V0Z"/>
+<path id="g73" d="M101 0V90H250V640H101V730H499V640H350V90H499V0Z"/>
+<path id="g74" d="M270 -10Q163 -10 102.0 49.5Q41 109 41 212H140Q140 148 174.5 113.0Q209 78 270 78Q331 78 365.5 113.0Q400 148 400 211V730H499V211Q499 109 437.5 49.5Q376 -10 270 -10Z"/>
+<path id="g75" d="M88 0V730H187V420H289L445 730H553L376 379L562 0H450L287 333H187V0Z"/>
+<path id="g76" d="M128 0V730H227V90H552V0Z"/>
+<path id="g77" d="M68 0V730H208L298 415L392 730H533V0H438V335Q438 388 440.0 452.5Q442 517 445.5 581.5Q449 646 453 698L339 324H255L145 689Q154 616 158.0 526.5Q162 437 162 335V0Z"/>
+<path id="g78" d="M86 0V730H214L432 114Q429 140 426.5 178.5Q424 217 422.5 258.5Q421 300 421 337V730H515V0H386L169 616Q172 590 174.0 552.5Q176 515 177.5 474.0Q179 433 179 397V0Z"/>
+<path id="g79" d="M300 -10Q200 -10 142.0 48.0Q84 106 84 212V519Q84 624 142.0 682.0Q200 740 300 740Q400 740 458.0 682.5Q516 625 516 519V212Q516 106 458.0 48.0Q400 -10 300 -10ZM300 78Q356 78 386.5 110.0Q417 142 417 202V529Q417 588 387.0 620.0Q357 652 300 652Q243 652 213.0 620.0Q183 588 183 529V202Q183 142 213.5 110.0Q244 78 300 78Z"/>
+<path id="g80" d="M88 0V730H325Q395 730 446.0 703.0Q497 676 525.0 627.5Q553 579 553 512Q553 446 525.0 397.5Q497 349 445.5 322.0Q394 295 325 295H187V0ZM187 383H325Q383 383 417.0 418.5Q451 454 451 512Q451 571 417.0 606.5Q383 642 325 642H187Z"/>
+<path id="g81" d="M419 -180 315 -9Q312 -10 308.0 -10.0Q304 -10 300 -10Q198 -10 137.5 49.0Q77 108 77 206V524Q77 623 137.5 681.5Q198 740 300 740Q402 740 462.5 681.5Q523 623 523 524V206Q523 139 494.0 89.0Q465 39 413 14L531 -180ZM300 78Q357 78 390.5 112.5Q424 147 424 206V524Q424 583 390.5 618.0Q357 653 300 653Q243 653 209.5 618.0Q176 583 176 524V206Q176 147 209.5 112.5Q243 78 300 78Z"/>
+<path id="g82" d="M89 0V730H315Q382 730 432.0 703.5Q482 677 510.0 629.5Q538 582 538 518Q538 444 500.5 391.0Q463 338 401 316L548 0H439L300 305H187V0ZM187 393H315Q371 393 403.5 427.0Q436 461 436 517Q436 574 403.0 608.0Q370 642 315 642H187Z"/>
+<path id="g83" d="M304 -10Q196 -10 132.0 46.5Q68 103 68 202H167Q167 144 204.0 111.0Q241 78 304 78Q364 78 399.5 111.5Q435 145 435 201Q435 243 412.0 274.5Q389 306 347 317L239 346Q168 366 126.5 418.5Q85 471 85 543Q85 602 111.5 646.5Q138 691 186.0 715.5Q234 740 297 740Q361 740 409.5 715.5Q458 691 485.0 647.0Q512 603 512 545H414Q414 593 381.5 623.0Q349 653 297 653Q245 653 213.5 623.0Q182 593 182 545Q182 506 203.0 479.5Q224 453 262 442L373 412Q448 392 490.0 335.5Q532 279 532 201Q532 137 504.0 89.5Q476 42 424.5 16.0Q373 -10 304 -10Z"/>
+<path id="g84" d="M251 0V640H53V730H547V640H350V0Z"/>
+<path id="g85" d="M300 -10Q197 -10 141.5 47.0Q86 104 86 202V730H185V202Q185 144 213.5 111.0Q242 78 300 78Q357 78 386.5 111.0Q416 144 416 202V730H515V202Q515 103 459.5 46.5Q404 -10 300 -10Z"/>
+<path id="g86" d="M233 0 46 730H148L269 238Q281 191 289.5 147.5Q298 104 302 81Q305 104 314.5 148.0Q324 192 335 239L452 730H554L366 0Z"/>
+<path id="g87" d="M103 0 19 730H107L161 198Q164 166 166.5 129.5Q169 93 170 70Q172 93 175.0 129.5Q178 166 183 198L253 730H352L417 198Q420 166 424.0 129.5Q428 93 431 70Q432 93 435.0 129.5Q438 166 441 198L496 730H582L495 0H375L312 540Q308 573 305.5 607.5Q303 642 302 663Q299 642 297.0 607.5Q295 573 291 540L222 0Z"/>
+<path id="g88" d="M37 0 245 371 48 730H161L269 522Q278 504 287.5 485.0Q297 466 302 456Q307 466 316.0 485.0Q325 504 334 522L443 730H552L355 376L563 0H451L331 224Q322 242 313.0 261.5Q304 281 299 293Q294 281 285.0 261.5Q276 242 266 225L146 0Z"/>
+<path id="g89" d="M251 0V271L32 730H137L272 442Q284 416 291.5 395.0Q299 374 301 365Q304 374 311.5 395.0Q319 416 332 442L466 730H568L350 271V0Z"/>
+<path id="g90" d="M84 0V97L403 640H89V730H506V633L186 90H517V0Z"/>
+<path id="g48" d="M300 -10Q197 -10 137.0 48.5Q77 107 77 206V524Q77 623 137.0 681.5Q197 740 300 740Q403 740 463.0 681.5Q523 623 523 524V206Q523 141 495.5 92.5Q468 44 418.0 17.0Q368 -10 300 -10ZM300 75Q358 75 393.0 111.5Q428 148 428 206V524Q428 582 393.0 618.5Q358 655 300 655Q242 655 207.0 618.5Q172 582 172 524V206Q172 148 207.0 111.5Q242 75 300 75ZM300 309Q272 309 255.5 324.5Q239 340 239 368Q239 396 255.5 410.5Q272 425 300 425Q328 425 345.0 410.5Q362 396 362 368Q362 340 345.0 324.5Q328 309 300 309Z"/>
+<path id="g49" d="M89 0V90H284V641L88 495V607L254 730H383V90H543V0Z"/>
+<path id="g50" d="M83 0V91L331 353Q379 403 399.5 444.5Q420 486 420 526Q420 583 387.0 617.5Q354 652 298 652Q240 652 206.0 617.0Q172 582 172 522H73Q75 622 136.5 681.0Q198 740 298 740Q400 740 460.5 682.0Q521 624 521 527Q521 474 493.0 416.5Q465 359 398 290L204 90H530V0Z"/>
+<path id="g51" d="M290 -10Q187 -10 127.0 46.5Q67 103 67 200H166Q166 143 199.5 110.5Q233 78 291 78Q348 78 382.0 110.5Q416 143 416 200V251Q416 308 382.5 341.5Q349 375 291 375H209V458L385 641H89V730H496V640L322 460Q411 452 463.0 396.5Q515 341 515 251V200Q515 103 454.5 46.5Q394 -10 290 -10Z"/>
+<path id="g52" d="M396 0V156H67V307L334 730H446L165 284V245H396V420H495V0Z"/>
+<path id="g53" d="M295 -10Q192 -10 132.0 46.5Q72 103 72 200H171Q171 143 204.5 110.5Q238 78 295 78Q353 78 386.5 111.0Q420 144 420 201V247Q420 304 387.5 337.0Q355 370 299 370H97V730H493V640H189L191 459H304Q406 459 462.5 403.5Q519 348 519 247V201Q519 103 458.5 46.5Q398 -10 295 -10Z"/>
+<path id="g54" d="M301 -10Q229 -10 175.0 19.5Q121 49 91.0 102.0Q61 155 61 225Q61 272 79.5 324.0Q98 376 129 431L295 730H406L224 415L227 413Q240 430 266.5 440.0Q293 450 326 450Q389 450 437.0 422.0Q485 394 512.0 344.0Q539 294 539 227Q539 156 509.0 103.0Q479 50 425.5 20.0Q372 -10 301 -10ZM300 77Q363 77 401.5 118.0Q440 159 440 225Q440 292 401.5 333.0Q363 374 300 374Q237 374 198.5 333.0Q160 292 160 225Q160 159 198.5 118.0Q237 77 300 77Z"/>
+<path id="g55" d="M182 0 444 641H177V523H78V730H550V639L290 0Z"/>
+<path id="g56" d="M300 -10Q230 -10 176.5 17.0Q123 44 93.0 92.5Q63 141 63 205Q63 273 102.0 323.0Q141 373 206 384V387Q150 399 116.5 443.5Q83 488 83 546Q83 603 110.5 647.0Q138 691 187.0 715.5Q236 740 300 740Q364 740 413.0 715.5Q462 691 489.5 647.0Q517 603 517 546Q517 488 483.5 443.5Q450 399 394 387V384Q459 373 498.0 323.0Q537 273 537 205Q537 141 507.0 92.5Q477 44 423.5 17.0Q370 -10 300 -10ZM300 424Q353 424 386.0 456.0Q419 488 419 539Q419 590 386.0 622.0Q353 654 300 654Q247 654 214.0 622.0Q181 590 181 539Q181 488 214.0 456.0Q247 424 300 424ZM300 77Q362 77 400.5 113.5Q439 150 439 208Q439 266 400.5 302.5Q362 339 300 339Q238 339 199.5 302.5Q161 266 161 208Q161 150 199.5 113.5Q238 77 300 77Z"/>
+<path id="g57" d="M190 0 369 311H366Q355 296 331.0 287.0Q307 278 275 278Q212 278 164.0 306.5Q116 335 88.5 385.5Q61 436 61 503Q61 574 91.0 627.0Q121 680 174.5 710.0Q228 740 299 740Q371 740 425.0 710.5Q479 681 509.0 628.0Q539 575 539 505Q539 458 520.5 406.0Q502 354 471 299L305 0ZM300 356Q363 356 401.5 397.0Q440 438 440 505Q440 571 401.5 612.0Q363 653 300 653Q237 653 198.5 612.0Q160 571 160 505Q160 438 198.5 397.0Q237 356 300 356Z"/>
+<path id="g46" d="M300 -10Q262 -10 238.5 13.0Q215 36 215 72Q215 110 238.5 134.0Q262 158 300 158Q338 158 361.5 134.0Q385 110 385 72Q385 36 361.5 13.0Q338 -10 300 -10Z"/>
+<path id="g58" d="M300 407Q258 407 236.0 428.0Q214 449 214 484Q214 518 236.0 539.0Q258 560 300 560Q342 560 364.0 539.0Q386 518 386 484Q386 449 364.0 428.0Q342 407 300 407ZM300 -10Q258 -10 236.0 11.0Q214 32 214 66Q214 101 236.0 122.0Q258 143 300 143Q342 143 364.0 122.0Q386 101 386 66Q386 32 364.0 11.0Q342 -10 300 -10Z"/>
+<path id="g47" d="M71 -110 425 830H529L175 -110Z"/>
+<path id="g95" d="M60 -110V-25H540V-110Z"/>
+<path id="g62" d="M83 63V157L388 304Q407 313 424.0 319.5Q441 326 450 328Q441 330 423.0 336.5Q405 343 388 352L83 500V597L517 383V277Z"/>
+<path id="g45" d="M140 286V375H460V286Z"/>
+<path id="g91" d="M200 -110V830H454V741H299V-21H454V-110Z"/>
+<path id="g93" d="M146 -110V-21H301V741H146V830H400V-110Z"/>
+<path id="g123" d="M456 -110Q367 -110 315.5 -65.5Q264 -21 271 59L286 220Q291 270 271.5 292.5Q252 315 192 315H74V404H192Q252 404 271.5 427.0Q291 450 286 500L271 662Q264 741 315.5 785.5Q367 830 456 830H507V741H460Q415 741 391.0 720.0Q367 699 370 659L385 497Q391 440 358.0 405.0Q325 370 254 363Q325 355 358.0 317.0Q391 279 385 223L370 61Q367 21 391.0 0.0Q415 -21 460 -21H507V-110Z"/>
+<path id="g125" d="M94 -110V-21H140Q185 -21 210.5 0.0Q236 21 230 61L206 223Q198 278 227.5 316.5Q257 355 308 364Q256 373 227.0 407.0Q198 441 206 497L230 659Q236 699 210.5 720.0Q185 741 140 741H94V830H145Q203 830 247.5 810.0Q292 790 314.0 752.5Q336 715 329 662L305 500Q298 450 318.5 427.0Q339 404 399 404H527V315H399Q340 315 319.0 292.5Q298 270 305 220L329 59Q336 6 314.0 -32.0Q292 -70 248.0 -90.0Q204 -110 145 -110Z"/>
+<path id="g124" d="M251 -110V830H350V-110Z"/>
+<path id="g183" d="M300 259Q262 259 238.5 282.0Q215 305 215 341Q215 379 238.5 403.0Q262 427 300 427Q338 427 361.5 403.0Q385 379 385 341Q385 305 361.5 282.0Q338 259 300 259Z"/>
+<path id="g43" d="M251 94V286H64V375H251V566H349V375H537V286H349V94Z"/>
+<path id="g59" d="M290 406Q256 406 234.5 427.5Q213 449 213 483Q213 516 235.0 538.0Q257 560 290 560H310Q343 560 365.0 538.0Q387 516 387 483Q387 449 365.5 427.5Q344 406 310 406ZM200 -160 254 146H371L300 -160Z"/>
+<path id="g61" d="M84 406V495H516V406ZM84 165V254H516V165Z"/>
+<path id="g40" d="M485 -120Q340 -87 260.5 15.0Q181 117 181 270V450Q181 603 260.5 705.0Q340 807 485 840V744Q422 729 376.0 688.5Q330 648 305.0 587.0Q280 526 280 450V270Q280 194 305.0 133.5Q330 73 376.0 32.5Q422 -8 485 -23Z"/>
+<path id="g41" d="M115 -120V-23Q178 -8 224.0 32.5Q270 73 295.5 133.5Q321 194 321 270V450Q321 526 295.5 587.0Q270 648 224.0 688.5Q178 729 115 744V840Q260 807 340.0 705.0Q420 603 420 450V270Q420 117 340.0 15.0Q260 -87 115 -120Z"/>
+</defs><style>
+  .motion { display:none; }
+  .stage { opacity:0; animation:stage 18s linear var(--phase) infinite; }
+  .detail { animation:detail 18s ease-out var(--phase) infinite; }
+  .decode-cursor { animation:scan 18s steps(1,end) var(--phase) infinite; }
+  .end-cursor { animation:end-cursor 18s linear var(--phase) infinite; }
+  .blink { animation:blink 1.2s steps(1,end) infinite; }
+  .progress { transform:scaleX(0); animation:progress 18s linear var(--phase) infinite; }
+  @keyframes stage { 0%,30.8333% { opacity:1; } 32.6667%,100% { opacity:0; } }
+  @keyframes detail { 0%,3.7778% { opacity:0; transform:translateY(5px); } 6.5556%,100% { opacity:1; transform:translateY(0); } }
+  @keyframes end-cursor { 0%,7.0000% { opacity:0; } 7.0556%,100% { opacity:1; } }
+  @keyframes blink { 0%,49.99% { opacity:1; } 50%,100% { opacity:0; } }
+  @keyframes progress { 0% { transform:scaleX(0); } 32.2222%,100% { transform:scaleX(1); } }
+  @supports (animation-name:stage) {
+    @media (prefers-reduced-motion:no-preference) { .motion { display:inline; } .still { display:none; } }
+  }
+  @media (prefers-reduced-motion:reduce) { * { animation:none !important; } }
+@keyframes scan-7{0%{opacity:1;transform:translateX(0)}1.6667%{opacity:1;transform:translateX(0px)}2.0111%{opacity:1;transform:translateX(34.8px)}2.3556%{opacity:1;transform:translateX(69.6px)}2.7000%{opacity:1;transform:translateX(104.4px)}3.0444%{opacity:1;transform:translateX(139.2px)}3.3889%{opacity:1;transform:translateX(174px)}3.7333%{opacity:1;transform:translateX(208.8px)}4.9556%,100%{opacity:0;transform:translateX(208.8px)}}@keyframes scan-4{0%{opacity:1;transform:translateX(0)}1.6667%{opacity:1;transform:translateX(0px)}2.0111%{opacity:1;transform:translateX(34.8px)}2.3556%{opacity:1;transform:translateX(69.6px)}2.7000%{opacity:1;transform:translateX(104.4px)}3.9222%,100%{opacity:0;transform:translateX(104.4px)}}@keyframes scan-13{0%{opacity:1;transform:translateX(0)}1.6667%{opacity:1;transform:translateX(0px)}2.0111%{opacity:1;transform:translateX(34.8px)}2.3556%{opacity:1;transform:translateX(69.6px)}2.7000%{opacity:1;transform:translateX(104.4px)}3.0444%{opacity:1;transform:translateX(139.2px)}3.3889%{opacity:1;transform:translateX(174px)}3.7333%{opacity:1;transform:translateX(208.8px)}4.0778%{opacity:1;transform:translateX(243.6px)}4.4222%{opacity:1;transform:translateX(278.4px)}4.7667%{opacity:1;transform:translateX(313.2px)}5.1111%{opacity:1;transform:translateX(348px)}5.4556%{opacity:1;transform:translateX(382.8px)}5.8000%{opacity:1;transform:translateX(417.6px)}7.0222%,100%{opacity:0;transform:translateX(417.6px)}}.noise-0{opacity:0;animation:noise-0 .6s steps(1,end) infinite;} @keyframes noise-0{0%,100%{opacity:0;}0.00000%{opacity:1;}16.66567%{opacity:1;}16.66667%{opacity:0;}}.noise-1{opacity:0;animation:noise-1 .6s steps(1,end) infinite;} @keyframes noise-1{0%,100%{opacity:0;}16.66667%{opacity:1;}33.33233%{opacity:1;}33.33333%{opacity:0;}}.noise-2{opacity:0;animation:noise-2 .6s steps(1,end) infinite;} @keyframes noise-2{0%,100%{opacity:0;}33.33333%{opacity:1;}49.99900%{opacity:1;}50.00000%{opacity:0;}}.noise-3{opacity:0;animation:noise-3 .6s steps(1,end) infinite;} @keyframes noise-3{0%,100%{opacity:0;}50.00000%{opacity:1;}66.66567%{opacity:1;}66.66667%{opacity:0;}}.noise-4{opacity:0;animation:noise-4 .6s steps(1,end) infinite;} @keyframes noise-4{0%,100%{opacity:0;}66.66667%{opacity:1;}83.33233%{opacity:1;}83.33333%{opacity:0;}}.noise-5{opacity:0;animation:noise-5 .6s steps(1,end) infinite;} @keyframes noise-5{0%,100%{opacity:0;}83.33333%{opacity:1;}99.99900%{opacity:1;}100.00000%{opacity:0;}}
+  .unresolved-0 { animation:unresolved-0 18s steps(1,end) var(--phase) infinite; }
+  .resolved-0 { animation:resolved-0 18s linear var(--phase) infinite; }
+  @keyframes unresolved-0 { 0% { opacity:1; } 1.6667%,100% { opacity:0; } }
+  @keyframes resolved-0 {
+    0%,1.6611% { opacity:0; transform:translateY(3px); color:#79d994; }
+    1.6667% { opacity:1; transform:translateY(3px); color:#79d994; }
+    2.5556% { transform:translateY(0); color:#79d994; }
+    3.7778%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-1 { animation:unresolved-1 18s steps(1,end) var(--phase) infinite; }
+  .resolved-1 { animation:resolved-1 18s linear var(--phase) infinite; }
+  @keyframes unresolved-1 { 0% { opacity:1; } 2.0111%,100% { opacity:0; } }
+  @keyframes resolved-1 {
+    0%,2.0056% { opacity:0; transform:translateY(3px); color:#79d994; }
+    2.0111% { opacity:1; transform:translateY(3px); color:#79d994; }
+    2.9000% { transform:translateY(0); color:#79d994; }
+    4.1222%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-2 { animation:unresolved-2 18s steps(1,end) var(--phase) infinite; }
+  .resolved-2 { animation:resolved-2 18s linear var(--phase) infinite; }
+  @keyframes unresolved-2 { 0% { opacity:1; } 2.3556%,100% { opacity:0; } }
+  @keyframes resolved-2 {
+    0%,2.3500% { opacity:0; transform:translateY(3px); color:#79d994; }
+    2.3556% { opacity:1; transform:translateY(3px); color:#79d994; }
+    3.2444% { transform:translateY(0); color:#79d994; }
+    4.4667%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-3 { animation:unresolved-3 18s steps(1,end) var(--phase) infinite; }
+  .resolved-3 { animation:resolved-3 18s linear var(--phase) infinite; }
+  @keyframes unresolved-3 { 0% { opacity:1; } 2.7000%,100% { opacity:0; } }
+  @keyframes resolved-3 {
+    0%,2.6944% { opacity:0; transform:translateY(3px); color:#79d994; }
+    2.7000% { opacity:1; transform:translateY(3px); color:#79d994; }
+    3.5889% { transform:translateY(0); color:#79d994; }
+    4.8111%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-4 { animation:unresolved-4 18s steps(1,end) var(--phase) infinite; }
+  .resolved-4 { animation:resolved-4 18s linear var(--phase) infinite; }
+  @keyframes unresolved-4 { 0% { opacity:1; } 3.0444%,100% { opacity:0; } }
+  @keyframes resolved-4 {
+    0%,3.0389% { opacity:0; transform:translateY(3px); color:#79d994; }
+    3.0444% { opacity:1; transform:translateY(3px); color:#79d994; }
+    3.9333% { transform:translateY(0); color:#79d994; }
+    5.1556%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-5 { animation:unresolved-5 18s steps(1,end) var(--phase) infinite; }
+  .resolved-5 { animation:resolved-5 18s linear var(--phase) infinite; }
+  @keyframes unresolved-5 { 0% { opacity:1; } 3.3889%,100% { opacity:0; } }
+  @keyframes resolved-5 {
+    0%,3.3833% { opacity:0; transform:translateY(3px); color:#79d994; }
+    3.3889% { opacity:1; transform:translateY(3px); color:#79d994; }
+    4.2778% { transform:translateY(0); color:#79d994; }
+    5.5000%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-6 { animation:unresolved-6 18s steps(1,end) var(--phase) infinite; }
+  .resolved-6 { animation:resolved-6 18s linear var(--phase) infinite; }
+  @keyframes unresolved-6 { 0% { opacity:1; } 3.7333%,100% { opacity:0; } }
+  @keyframes resolved-6 {
+    0%,3.7278% { opacity:0; transform:translateY(3px); color:#79d994; }
+    3.7333% { opacity:1; transform:translateY(3px); color:#79d994; }
+    4.6222% { transform:translateY(0); color:#79d994; }
+    5.8444%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-7 { animation:unresolved-7 18s steps(1,end) var(--phase) infinite; }
+  .resolved-7 { animation:resolved-7 18s linear var(--phase) infinite; }
+  @keyframes unresolved-7 { 0% { opacity:1; } 4.0778%,100% { opacity:0; } }
+  @keyframes resolved-7 {
+    0%,4.0722% { opacity:0; transform:translateY(3px); color:#79d994; }
+    4.0778% { opacity:1; transform:translateY(3px); color:#79d994; }
+    4.9667% { transform:translateY(0); color:#79d994; }
+    6.1889%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-8 { animation:unresolved-8 18s steps(1,end) var(--phase) infinite; }
+  .resolved-8 { animation:resolved-8 18s linear var(--phase) infinite; }
+  @keyframes unresolved-8 { 0% { opacity:1; } 4.4222%,100% { opacity:0; } }
+  @keyframes resolved-8 {
+    0%,4.4167% { opacity:0; transform:translateY(3px); color:#79d994; }
+    4.4222% { opacity:1; transform:translateY(3px); color:#79d994; }
+    5.3111% { transform:translateY(0); color:#79d994; }
+    6.5333%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-9 { animation:unresolved-9 18s steps(1,end) var(--phase) infinite; }
+  .resolved-9 { animation:resolved-9 18s linear var(--phase) infinite; }
+  @keyframes unresolved-9 { 0% { opacity:1; } 4.7667%,100% { opacity:0; } }
+  @keyframes resolved-9 {
+    0%,4.7611% { opacity:0; transform:translateY(3px); color:#79d994; }
+    4.7667% { opacity:1; transform:translateY(3px); color:#79d994; }
+    5.6556% { transform:translateY(0); color:#79d994; }
+    6.8778%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-10 { animation:unresolved-10 18s steps(1,end) var(--phase) infinite; }
+  .resolved-10 { animation:resolved-10 18s linear var(--phase) infinite; }
+  @keyframes unresolved-10 { 0% { opacity:1; } 5.1111%,100% { opacity:0; } }
+  @keyframes resolved-10 {
+    0%,5.1056% { opacity:0; transform:translateY(3px); color:#79d994; }
+    5.1111% { opacity:1; transform:translateY(3px); color:#79d994; }
+    6.0000% { transform:translateY(0); color:#79d994; }
+    7.2222%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-11 { animation:unresolved-11 18s steps(1,end) var(--phase) infinite; }
+  .resolved-11 { animation:resolved-11 18s linear var(--phase) infinite; }
+  @keyframes unresolved-11 { 0% { opacity:1; } 5.4556%,100% { opacity:0; } }
+  @keyframes resolved-11 {
+    0%,5.4500% { opacity:0; transform:translateY(3px); color:#79d994; }
+    5.4556% { opacity:1; transform:translateY(3px); color:#79d994; }
+    6.3444% { transform:translateY(0); color:#79d994; }
+    7.5667%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }
+  .unresolved-12 { animation:unresolved-12 18s steps(1,end) var(--phase) infinite; }
+  .resolved-12 { animation:resolved-12 18s linear var(--phase) infinite; }
+  @keyframes unresolved-12 { 0% { opacity:1; } 5.8000%,100% { opacity:0; } }
+  @keyframes resolved-12 {
+    0%,5.7944% { opacity:0; transform:translateY(3px); color:#79d994; }
+    5.8000% { opacity:1; transform:translateY(3px); color:#79d994; }
+    6.6889% { transform:translateY(0); color:#79d994; }
+    7.9111%,100% { opacity:1; transform:translateY(0); color:#e6edf3; }
+  }</style>
+<rect x=".5" y=".5" width="599" height="273" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 52H599" stroke="#30363d"/>
+<g fill="#79d994" transform="translate(30 34) scale(0.019 -0.019)"><use href="#g62" transform="translate(0 0)"/><use href="#g95" transform="translate(600 0)"/></g>
+<g fill="#e6edf3" transform="translate(68 34) scale(0.019 -0.019)"><use href="#g71" transform="translate(0 0)"/><use href="#g49" transform="translate(600 0)"/><use href="#g76" transform="translate(1200 0)"/><use href="#g66" transform="translate(1800 0)"/><use href="#g51" transform="translate(2400 0)"/><use href="#g84" transform="translate(3000 0)"/><use href="#g48" transform="translate(3600 0)"/></g>
+<g fill="#9aa7b5" transform="translate(170.6 34) scale(0.019 -0.019)"><use href="#g47" transform="translate(0 0)"/><use href="#g115" transform="translate(1200 0)"/><use href="#g111" transform="translate(1800 0)"/><use href="#g102" transform="translate(2400 0)"/><use href="#g116" transform="translate(3000 0)"/><use href="#g119" transform="translate(3600 0)"/><use href="#g97" transform="translate(4200 0)"/><use href="#g114" transform="translate(4800 0)"/><use href="#g101" transform="translate(5400 0)"/><use href="#g101" transform="translate(6600 0)"/><use href="#g110" transform="translate(7200 0)"/><use href="#g103" transform="translate(7800 0)"/><use href="#g105" transform="translate(8400 0)"/><use href="#g110" transform="translate(9000 0)"/><use href="#g101" transform="translate(9600 0)"/><use href="#g101" transform="translate(10200 0)"/><use href="#g114" transform="translate(10800 0)"/></g>
+<g fill="#586574" transform="translate(30 242) scale(0.016 -0.016)"><use href="#g48" transform="translate(0 0)"/><use href="#g49" transform="translate(600 0)"/></g>
+<g fill="#9aa7b5" transform="translate(58 242) scale(0.018 -0.018)"><use href="#g66" transform="translate(0 0)"/><use href="#g97" transform="translate(600 0)"/><use href="#g99" transform="translate(1200 0)"/><use href="#g107" transform="translate(1800 0)"/><use href="#g101" transform="translate(2400 0)"/><use href="#g110" transform="translate(3000 0)"/><use href="#g100" transform="translate(3600 0)"/></g>
+<path d="M30 254h163" stroke="#30363d" stroke-width="2"/>
+<g fill="#586574" transform="translate(210 242) scale(0.016 -0.016)"><use href="#g48" transform="translate(0 0)"/><use href="#g50" transform="translate(600 0)"/></g>
+<g fill="#9aa7b5" transform="translate(238 242) scale(0.018 -0.018)"><use href="#g65" transform="translate(0 0)"/><use href="#g80" transform="translate(600 0)"/><use href="#g73" transform="translate(1200 0)"/><use href="#g115" transform="translate(1800 0)"/></g>
+<path d="M210 254h163" stroke="#30363d" stroke-width="2"/>
+<g fill="#586574" transform="translate(390 242) scale(0.016 -0.016)"><use href="#g48" transform="translate(0 0)"/><use href="#g51" transform="translate(600 0)"/></g>
+<g fill="#9aa7b5" transform="translate(418 242) scale(0.018 -0.018)"><use href="#g73" transform="translate(0 0)"/><use href="#g110" transform="translate(600 0)"/><use href="#g116" transform="translate(1200 0)"/><use href="#g101" transform="translate(1800 0)"/><use href="#g103" transform="translate(2400 0)"/><use href="#g114" transform="translate(3000 0)"/><use href="#g97" transform="translate(3600 0)"/><use href="#g99" transform="translate(4200 0)"/><use href="#g105" transform="translate(4800 0)"/><use href="#g111" transform="translate(5400 0)"/><use href="#g110" transform="translate(6000 0)"/><use href="#g101" transform="translate(6600 0)"/><use href="#g115" transform="translate(7200 0)"/></g>
+<path d="M390 254h163" stroke="#30363d" stroke-width="2"/>
+<g class="still">
+<g fill="#e6edf3" transform="translate(30 116) scale(0.042 -0.042)"><use href="#g66" transform="translate(0 0)"/><use href="#g65" transform="translate(600 0)"/><use href="#g67" transform="translate(1200 0)"/><use href="#g75" transform="translate(1800 0)"/><use href="#g69" transform="translate(2400 0)"/><use href="#g78" transform="translate(3000 0)"/><use href="#g68" transform="translate(3600 0)"/><use href="#g47" transform="translate(4800 0)"/><use href="#g65" transform="translate(6000 0)"/><use href="#g80" transform="translate(6600 0)"/><use href="#g73" transform="translate(7200 0)"/><use href="#g115" transform="translate(7800 0)"/></g>
+<g fill="#79d994" transform="translate(30 169) scale(0.042 -0.042)"><use href="#g73" transform="translate(0 0)"/><use href="#g78" transform="translate(600 0)"/><use href="#g84" transform="translate(1200 0)"/><use href="#g69" transform="translate(1800 0)"/><use href="#g71" transform="translate(2400 0)"/><use href="#g82" transform="translate(3000 0)"/><use href="#g65" transform="translate(3600 0)"/><use href="#g67" transform="translate(4200 0)"/><use href="#g73" transform="translate(4800 0)"/><use href="#g79" transform="translate(5400 0)"/><use href="#g78" transform="translate(6000 0)"/><use href="#g69" transform="translate(6600 0)"/><use href="#g83" transform="translate(7200 0)"/></g>
+</g><g class="motion">
+<g class="stage" data-word="BACKEND" style="--phase:0s;--jumps:6;--travel:208.8px">
+<g fill="#586574" transform="translate(524.4 87) scale(0.019 -0.019)"><use href="#g91" transform="translate(0 0)"/><use href="#g48" transform="translate(600 0)"/><use href="#g49" transform="translate(1200 0)"/><use href="#g93" transform="translate(1800 0)"/></g>
+<g fill="#9aa7b5" transform="translate(30 85) scale(0.014 -0.014)"><use href="#g70" transform="translate(0 0)"/><use href="#g79" transform="translate(600 0)"/><use href="#g67" transform="translate(1200 0)"/><use href="#g85" transform="translate(1800 0)"/><use href="#g83" transform="translate(2400 0)"/></g>
+<g transform="translate(26 96.92)"><g class="decode-cursor" style="animation-name:scan-7"><rect width="42.8" height="49.88" rx="2" fill="#14261d"/><path d="M0 10V0H10M32.8 0h10v10M0 39.88v10h10M32.8 49.88h10v-10" stroke="#79d994" stroke-width="1.3" fill="none"/></g></g>
+<g class="unresolved-0">
+<g class="noise-0"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g50" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g50" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-0"><g fill="currentColor" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g66" transform="translate(0 0)"/></g></g>
+<g class="unresolved-1">
+<g class="noise-0"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g83" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g84" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g50" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g84" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-1"><g fill="currentColor" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="unresolved-2">
+<g class="noise-0"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g50" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g86" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g75" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g80" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-2"><g fill="currentColor" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="unresolved-3">
+<g class="noise-0"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g88" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g56" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g84" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g84" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-3"><g fill="currentColor" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g75" transform="translate(0 0)"/></g></g>
+<g class="unresolved-4">
+<g class="noise-0"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g72" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g88" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g80" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g51" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g86" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-4"><g fill="currentColor" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="unresolved-5">
+<g class="noise-0"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g51" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g87" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g82" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g54" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g57" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-5"><g fill="currentColor" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="unresolved-6">
+<g class="noise-0"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g80" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g57" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g48" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g54" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g66" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-6"><g fill="currentColor" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g68" transform="translate(0 0)"/></g></g>
+<g class="end-cursor"><rect class="blink" x="282.6" y="139" width="20.184" height="5" fill="#79d994"/></g>
+<g class="detail"><g fill="#9aa7b5" transform="translate(30 186) scale(0.022 -0.022)"><use href="#g80" transform="translate(0 0)"/><use href="#g121" transform="translate(600 0)"/><use href="#g116" transform="translate(1200 0)"/><use href="#g104" transform="translate(1800 0)"/><use href="#g111" transform="translate(2400 0)"/><use href="#g110" transform="translate(3000 0)"/><use href="#g47" transform="translate(4200 0)"/><use href="#g84" transform="translate(5400 0)"/><use href="#g121" transform="translate(6000 0)"/><use href="#g112" transform="translate(6600 0)"/><use href="#g101" transform="translate(7200 0)"/><use href="#g83" transform="translate(7800 0)"/><use href="#g99" transform="translate(8400 0)"/><use href="#g114" transform="translate(9000 0)"/><use href="#g105" transform="translate(9600 0)"/><use href="#g112" transform="translate(10200 0)"/><use href="#g116" transform="translate(10800 0)"/><use href="#g47" transform="translate(12000 0)"/><use href="#g80" transform="translate(13200 0)"/><use href="#g111" transform="translate(13800 0)"/><use href="#g115" transform="translate(14400 0)"/><use href="#g116" transform="translate(15000 0)"/><use href="#g103" transform="translate(15600 0)"/><use href="#g114" transform="translate(16200 0)"/><use href="#g101" transform="translate(16800 0)"/><use href="#g83" transform="translate(17400 0)"/><use href="#g81" transform="translate(18000 0)"/><use href="#g76" transform="translate(18600 0)"/></g></g>
+<g fill="#79d994" transform="translate(30 242) scale(0.016 -0.016)"><use href="#g48" transform="translate(0 0)"/><use href="#g49" transform="translate(600 0)"/></g>
+<g fill="#79d994" transform="translate(58 242) scale(0.018 -0.018)"><use href="#g66" transform="translate(0 0)"/><use href="#g97" transform="translate(600 0)"/><use href="#g99" transform="translate(1200 0)"/><use href="#g107" transform="translate(1800 0)"/><use href="#g101" transform="translate(2400 0)"/><use href="#g110" transform="translate(3000 0)"/><use href="#g100" transform="translate(3600 0)"/></g>
+<g transform="translate(30 254)"><rect class="progress" width="163" height="2" fill="#79d994"/></g></g>
+<g class="stage" data-word="APIs" style="--phase:-12s;--jumps:3;--travel:104.4px">
+<g fill="#586574" transform="translate(524.4 87) scale(0.019 -0.019)"><use href="#g91" transform="translate(0 0)"/><use href="#g48" transform="translate(600 0)"/><use href="#g50" transform="translate(1200 0)"/><use href="#g93" transform="translate(1800 0)"/></g>
+<g fill="#9aa7b5" transform="translate(30 85) scale(0.014 -0.014)"><use href="#g70" transform="translate(0 0)"/><use href="#g79" transform="translate(600 0)"/><use href="#g67" transform="translate(1200 0)"/><use href="#g85" transform="translate(1800 0)"/><use href="#g83" transform="translate(2400 0)"/></g>
+<g transform="translate(26 96.92)"><g class="decode-cursor" style="animation-name:scan-4"><rect width="42.8" height="49.88" rx="2" fill="#14261d"/><path d="M0 10V0H10M32.8 0h10v10M0 39.88v10h10M32.8 49.88h10v-10" stroke="#79d994" stroke-width="1.3" fill="none"/></g></g>
+<g class="unresolved-0">
+<g class="noise-0"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g72" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g68" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g52" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g84" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g83" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g77" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-0"><g fill="currentColor" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="unresolved-1">
+<g class="noise-0"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g88" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g75" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g72" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g72" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-1"><g fill="currentColor" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g80" transform="translate(0 0)"/></g></g>
+<g class="unresolved-2">
+<g class="noise-0"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g50" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g89" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g51" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g70" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g90" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-2"><g fill="currentColor" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g73" transform="translate(0 0)"/></g></g>
+<g class="unresolved-3">
+<g class="noise-0"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g57" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g51" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g56" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g76" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g76" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-3"><g fill="currentColor" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g115" transform="translate(0 0)"/></g></g>
+<g class="end-cursor"><rect class="blink" x="178.2" y="139" width="20.184" height="5" fill="#79d994"/></g>
+<g class="detail"><g fill="#9aa7b5" transform="translate(30 186) scale(0.022 -0.022)"><use href="#g82" transform="translate(0 0)"/><use href="#g69" transform="translate(600 0)"/><use href="#g83" transform="translate(1200 0)"/><use href="#g84" transform="translate(1800 0)"/><use href="#g47" transform="translate(3000 0)"/><use href="#g74" transform="translate(4200 0)"/><use href="#g83" transform="translate(4800 0)"/><use href="#g79" transform="translate(5400 0)"/><use href="#g78" transform="translate(6000 0)"/><use href="#g45" transform="translate(6600 0)"/><use href="#g82" transform="translate(7200 0)"/><use href="#g80" transform="translate(7800 0)"/><use href="#g67" transform="translate(8400 0)"/><use href="#g47" transform="translate(9600 0)"/><use href="#g77" transform="translate(10800 0)"/><use href="#g67" transform="translate(11400 0)"/><use href="#g80" transform="translate(12000 0)"/></g></g>
+<g fill="#79d994" transform="translate(210 242) scale(0.016 -0.016)"><use href="#g48" transform="translate(0 0)"/><use href="#g50" transform="translate(600 0)"/></g>
+<g fill="#79d994" transform="translate(238 242) scale(0.018 -0.018)"><use href="#g65" transform="translate(0 0)"/><use href="#g80" transform="translate(600 0)"/><use href="#g73" transform="translate(1200 0)"/><use href="#g115" transform="translate(1800 0)"/></g>
+<g transform="translate(210 254)"><rect class="progress" width="163" height="2" fill="#79d994"/></g></g>
+<g class="stage" data-word="INTEGRACIONES" style="--phase:-6s;--jumps:12;--travel:417.6px">
+<g fill="#586574" transform="translate(524.4 87) scale(0.019 -0.019)"><use href="#g91" transform="translate(0 0)"/><use href="#g48" transform="translate(600 0)"/><use href="#g51" transform="translate(1200 0)"/><use href="#g93" transform="translate(1800 0)"/></g>
+<g fill="#9aa7b5" transform="translate(30 85) scale(0.014 -0.014)"><use href="#g70" transform="translate(0 0)"/><use href="#g79" transform="translate(600 0)"/><use href="#g67" transform="translate(1200 0)"/><use href="#g85" transform="translate(1800 0)"/><use href="#g83" transform="translate(2400 0)"/></g>
+<g transform="translate(26 96.92)"><g class="decode-cursor" style="animation-name:scan-13"><rect width="42.8" height="49.88" rx="2" fill="#14261d"/><path d="M0 10V0H10M32.8 0h10v10M0 39.88v10h10M32.8 49.88h10v-10" stroke="#79d994" stroke-width="1.3" fill="none"/></g></g>
+<g class="unresolved-0">
+<g class="noise-0"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g53" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g72" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g86" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g75" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g48" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g57" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-0"><g fill="currentColor" transform="translate(30 146) scale(0.058 -0.058)"><use href="#g73" transform="translate(0 0)"/></g></g>
+<g class="unresolved-1">
+<g class="noise-0"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g89" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g90" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g76" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g81" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g81" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-1"><g fill="currentColor" transform="translate(64.8 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="unresolved-2">
+<g class="noise-0"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g81" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g83" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g81" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-2"><g fill="currentColor" transform="translate(99.6 146) scale(0.058 -0.058)"><use href="#g84" transform="translate(0 0)"/></g></g>
+<g class="unresolved-3">
+<g class="noise-0"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g71" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g54" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-3"><g fill="currentColor" transform="translate(134.4 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="unresolved-4">
+<g class="noise-0"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g88" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g89" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g90" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-4"><g fill="currentColor" transform="translate(169.2 146) scale(0.058 -0.058)"><use href="#g71" transform="translate(0 0)"/></g></g>
+<g class="unresolved-5">
+<g class="noise-0"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g54" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g53" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g75" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-5"><g fill="currentColor" transform="translate(204 146) scale(0.058 -0.058)"><use href="#g82" transform="translate(0 0)"/></g></g>
+<g class="unresolved-6">
+<g class="noise-0"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g70" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g76" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g56" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g51" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g70" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-6"><g fill="currentColor" transform="translate(238.8 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="unresolved-7">
+<g class="noise-0"><g fill="#586574" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g86" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g51" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g56" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g76" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g70" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-7"><g fill="currentColor" transform="translate(273.6 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="unresolved-8">
+<g class="noise-0"><g fill="#586574" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g76" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g50" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g57" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g52" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g81" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-8"><g fill="currentColor" transform="translate(308.4 146) scale(0.058 -0.058)"><use href="#g73" transform="translate(0 0)"/></g></g>
+<g class="unresolved-9">
+<g class="noise-0"><g fill="#586574" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g54" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g70" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g65" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g52" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g82" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-9"><g fill="currentColor" transform="translate(343.2 146) scale(0.058 -0.058)"><use href="#g79" transform="translate(0 0)"/></g></g>
+<g class="unresolved-10">
+<g class="noise-0"><g fill="#586574" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g71" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g52" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g57" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g74" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-10"><g fill="currentColor" transform="translate(378 146) scale(0.058 -0.058)"><use href="#g78" transform="translate(0 0)"/></g></g>
+<g class="unresolved-11">
+<g class="noise-0"><g fill="#586574" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g75" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g85" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g54" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g68" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g82" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g66" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-11"><g fill="currentColor" transform="translate(412.8 146) scale(0.058 -0.058)"><use href="#g69" transform="translate(0 0)"/></g></g>
+<g class="unresolved-12">
+<g class="noise-0"><g fill="#586574" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g53" transform="translate(0 0)"/></g></g>
+<g class="noise-1"><g fill="#586574" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g67" transform="translate(0 0)"/></g></g>
+<g class="noise-2"><g fill="#586574" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g77" transform="translate(0 0)"/></g></g>
+<g class="noise-3"><g fill="#586574" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g55" transform="translate(0 0)"/></g></g>
+<g class="noise-4"><g fill="#586574" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g48" transform="translate(0 0)"/></g></g>
+<g class="noise-5"><g fill="#586574" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g81" transform="translate(0 0)"/></g></g>
+</g>
+<g class="resolved-12"><g fill="currentColor" transform="translate(447.6 146) scale(0.058 -0.058)"><use href="#g83" transform="translate(0 0)"/></g></g>
+<g class="end-cursor"><rect class="blink" x="491.4" y="139" width="20.184" height="5" fill="#79d994"/></g>
+<g class="detail"><g fill="#9aa7b5" transform="translate(30 186) scale(0.022 -0.022)"><use href="#g79" transform="translate(0 0)"/><use href="#g100" transform="translate(600 0)"/><use href="#g111" transform="translate(1200 0)"/><use href="#g111" transform="translate(1800 0)"/><use href="#g47" transform="translate(3000 0)"/><use href="#g70" transform="translate(4200 0)"/><use href="#g69" transform="translate(4800 0)"/><use href="#g76" transform="translate(5400 0)"/><use href="#g47" transform="translate(6600 0)"/><use href="#g77" transform="translate(7800 0)"/><use href="#g101" transform="translate(8400 0)"/><use href="#g116" transform="translate(9000 0)"/><use href="#g97" transform="translate(9600 0)"/><use href="#g65" transform="translate(10800 0)"/><use href="#g80" transform="translate(11400 0)"/><use href="#g73" transform="translate(12000 0)"/></g></g>
+<g fill="#79d994" transform="translate(390 242) scale(0.016 -0.016)"><use href="#g48" transform="translate(0 0)"/><use href="#g51" transform="translate(600 0)"/></g>
+<g fill="#79d994" transform="translate(418 242) scale(0.018 -0.018)"><use href="#g73" transform="translate(0 0)"/><use href="#g110" transform="translate(600 0)"/><use href="#g116" transform="translate(1200 0)"/><use href="#g101" transform="translate(1800 0)"/><use href="#g103" transform="translate(2400 0)"/><use href="#g114" transform="translate(3000 0)"/><use href="#g97" transform="translate(3600 0)"/><use href="#g99" transform="translate(4200 0)"/><use href="#g105" transform="translate(4800 0)"/><use href="#g111" transform="translate(5400 0)"/><use href="#g110" transform="translate(6000 0)"/><use href="#g101" transform="translate(6600 0)"/><use href="#g115" transform="translate(7200 0)"/></g>
+<g transform="translate(390 254)"><rect class="progress" width="163" height="2" fill="#79d994"/></g></g>
+</g></svg>
